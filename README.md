@@ -141,23 +141,23 @@
   <h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=Kamronbek0110&theme=react&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=zayniddinovkamronbek&theme=react&hide_border=true&short_numbers=true" alt="GitHub Streak" />
     </a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/Kamronbek0110">
-    <img alt="Kamronbek0110's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Kamronbek0110&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/>
+  <a href="https://github.com/zayniddinovkamronbek">
+    <img alt="zayniddinovkamronbek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=zayniddinovkamronbek&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/>
   </a>
 
-  <a href="https://github.com/Kamronbek0110">
-    <img alt="Kamronbek0110's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamronbek0110&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/>
+  <a href="https://github.com/zayniddinovkamronbek">
+    <img alt="zayniddinovkamronbek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayniddinovkamronbek&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/>
   </a>
   <br/>
   <br/>
   <b>Note:</b> Top languages here show stats from public repos and may not reflect all skills.
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Kamronbek0110's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Kamronbek0110&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FFFFFF&hide_border=true" />
+    <img alt="zayniddinovkamronbek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zayniddinovkamronbek&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FFFFFF&hide_border=true" />
   </a>
 
 
