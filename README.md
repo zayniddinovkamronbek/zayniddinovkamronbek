@@ -34,8 +34,6 @@
 - 🌱 Learning **React & JavaScript**
 - 🔭 Working as a **Frontend Developer (Freelancer)**
 - 💼 Experience: 2+ years (2024 – present)
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- ⚡ Fun fact: I love coding at night 🌙
 - 📂 Portfolio: [devzk.netlify.app](https://devzk.netlify.app)
 
 ---
